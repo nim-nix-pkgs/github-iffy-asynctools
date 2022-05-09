@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/iffy/asynctools",
   "refs": [
-    "fatal: unable to access 'https://github.com/iffy/asynctools/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/iffy/asynctools/': SSL connection timeout",
     ""
   ],
   "heads": []
